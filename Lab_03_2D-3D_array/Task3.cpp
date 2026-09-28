@@ -2,6 +2,7 @@
 using namespace std;
 
 int main()
+
 {
     // 3 floors, 3 wards, 4 beds
     int beds[3][3][4] = {
